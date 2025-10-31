@@ -1,0 +1,5 @@
+La programmation est un art et une science. Certains aiment coder la nuit, d'autres le matin. 
+Le code propre et lisible facilite la maintenance tandis qu'un code desordonne cree des bugs difficiles a corriger. 
+Python est simple, puissant et elegant. Coder en Python c'est penser clairement et structurer sa logique. 
+Le mot radar est un palindrome, tout comme kayak ou niveau. Les bons programmeurs testent souvent leur code. 
+Apprendre a programmer c'est apprendre a resoudre des problemes. Et resoudre un probleme c'est aussi apprendre a penser.
